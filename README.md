@@ -19,6 +19,12 @@ Selamat Python telah terinstall pada laptop/komputer kalian
 
    ## Coding Modul 1 (1-3)
    ![enter image description here](https://i.ibb.co/4W0DzQz/try1.png)
+   
    ![enter image description here](https://i.ibb.co/d7D8k17/try2.png)
+   
    ![enter image description here](https://i.ibb.co/1Rm0Y4H/try3.png)
+   
+   ![enter image description here](https://i.ibb.co/sWZM2cL/try4.jpg)
+   
+ 
 
