@@ -1,8 +1,9 @@
-# GUI-Praktikum
+# GUI-Praktikum-2
 
 #Vincent Nathaniel
 #19104016
 
+Praktikum-1
 ## INSTALASI Python
 
    ## <<Langkah 1
@@ -19,4 +20,5 @@ Selamat Python telah terinstall pada laptop/komputer kalian
 
 
  
+
 
