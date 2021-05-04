@@ -3,10 +3,9 @@
 Nama: Vincent Nathaniel
 Nim: 19104016
 
-## Calender Widget
-![enter image description here](https://i.ibb.co/P6cfb2y/Calender.png)
+## UI
+![enter image description here](https://i.ibb.co/QbFzzLf/Capture.png)
 
-## Styles
 
-![enter image description here](https://i.ibb.co/zVW10Ry/Style.png)
+
 
