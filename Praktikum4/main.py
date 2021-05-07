@@ -1,5 +1,5 @@
 import sys
-from modul4 import*
+from Prak4 import*
 from PyQt5.QtCore import*
 from PyQt5.QtWidgets import*
 
