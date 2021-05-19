@@ -1,4 +1,4 @@
-# GUI-Praktikum-4
+# GUI-Praktikum
 
 #Vincent Nathaniel
 #19104016
