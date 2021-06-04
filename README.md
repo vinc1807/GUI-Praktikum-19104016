@@ -1,4 +1,4 @@
-# GUI-Praktikum
+# GUI-UTS TEORI
 
 #Vincent Nathaniel
 #19104016
