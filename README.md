@@ -7,12 +7,14 @@
 Fitur Tambah
 
 ![enter image description here](https://i.ibb.co/71nhHCY/Tambah.png)
+#
 
 Fitur Edit
 
 ![enter image description here](https://i.ibb.co/jypzwxd/edit.png)
 
 pada fitur edit akan muncul pop up seperti gambar diatas dan dapat mengedit data sesuai edit
+#
 
 Fitur Clear & Hapus
 
@@ -28,7 +30,7 @@ No 2 untuk melengkapi nya hanya dengan menghapus Tab seperti pada gambar diatas.
 
 
 ## Note
-ui.py adalah file codingan
-ui.ui pyqt 
-edit.py untuk edit
+ui.py adalah file codingan,
+ui.ui pyqt,
+edit.py untuk edit.
 
